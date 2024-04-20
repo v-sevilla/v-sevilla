@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning: **Next.js, TypeScript, and MySQL**
 
-🐸 Fun facts: **My handwriting on seran wrap is fabulous & frogs are my spirit animal.**
+🐸 Fun facts: **My handwriting on saran wrap is fabulous & frogs are my spirit animal.**
 
  </div>
  
