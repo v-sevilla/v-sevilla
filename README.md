@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 💻 I’m currently working on: **an issue tracker app**
+ 💻 I’m currently working on: **developing a website for a client**
  
- 🌱 I’m currently learning: **Next.js, TypeScript, and MySQL**
+ 🌱 I’m currently learning: **Python & React.js**
 
 🐸 Fun facts: **My handwriting on saran wrap is fabulous & frogs are my spirit animal.**
 
