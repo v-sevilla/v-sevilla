@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 💻 I’m currently working on: **developing a website for a client**
+ 💻 I’m currently working on: **a food and travel app**
  
- 🌱 I’m currently learning: **Python & React.js**
+ 🌱 I’m currently learning: **to build a full-stack application using the MERN stack**
 
-🐸 Fun facts: **My handwriting on saran wrap is fabulous & frogs are my spirit animal.**
+🐸 Fun facts: **My handwriting on saran wrap is fabulous & frogs are my spirit animal**
 
  </div>
  
@@ -29,9 +29,9 @@
 <h2 align="center">Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,nextjs,typescript" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql" />
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mui,netlify,github" /><br>
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,typescript" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb" />
+    <img src="https://skillicons.dev/icons?i=tailwind,netlify,github" /><br>
 </div>
 
 <br/>
@@ -54,7 +54,6 @@ Generated with <a href="https://github.com/Platane/snk">Platane/snk</a>
 <h2 align="center">Stats ⭐</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=v-sevilla&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=v-sevilla&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-sevilla&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
